@@ -2,13 +2,13 @@
  
 ES6 Topics for learning React JS
 
-Varibales - var, let and const
-Objects
-this - keyword
-Arrow Functions
-Template Literals
-Destructuring
-Spread
-Classes
-Modules
-Default and Named Exports
+1. Varibales - var, let and const
+2. Objects
+3. this - keyword
+4. Arrow Functions
+5. Template Literals
+6. Destructuring
+7. Spread
+8. Classes
+9. Modules
+10. Default and Named Exports
